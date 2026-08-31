@@ -1,0 +1,14 @@
+# macOS Finder metadata
+.DS_Store
+
+# Downloaded MNIST data and other generated training artifacts
+data/
+checkpoints/
+runs/
+
+# Python caches
+__pycache__/
+*.py[cod]
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
